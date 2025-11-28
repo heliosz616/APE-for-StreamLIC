@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="util.hpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\util.hpp"/>
+    <originFiles name="top.hpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\top.hpp"/>
+    <originFiles name="top.cpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\top.cpp"/>
+    <originFiles name="common.hpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\common.hpp"/>
+    <originFiles name="ape.hpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\ape.hpp"/>
+  </source>
+  <testbench>
+    <originFiles name="testbench.cpp" path="F:\workspace_hw1\APE_KERNEL_TEST\APE_KERNEL\src\testbench.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

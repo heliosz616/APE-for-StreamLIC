@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+*.jou
+*.prj
+/APE_KERNEL/ape_kernel/solution*/
