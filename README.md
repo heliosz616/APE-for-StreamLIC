@@ -38,7 +38,7 @@ cd test_data
 # Step 1: Generate model parameters for the HLS testbench
 python output_entropy_model_parameters.py
 
-# Step 2: Generate input feature maps and bit-accurate golden reference
+# Step 2: Generate input feature maps and bit-exact golden reference
 python perform_quantized_inference.py
 ```
 
